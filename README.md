@@ -37,6 +37,8 @@ cd Add_charges_to-Top_file
 #copy your three input files into Add_charges_to_Top_file/
 # Make executable
 chmod +x ntinye-charges-na-top-file.sh
+```
+```bash
 ./ntinye-charges-na-top-file.sh mol2_file top_file Esp_chg_file
 
 ```
