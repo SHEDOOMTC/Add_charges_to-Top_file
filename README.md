@@ -7,9 +7,9 @@ Herein is a code to help you edit the top file with the calculated partial chrge
 
 # Features
 
-Edits the original topolgy file
-Maintains the gromacs formatting
-Outputs a new topology with updated partial atomic charges
+  Edits the original topolgy file
+  Maintains the gromacs formatting
+  Outputs a new topology with updated partial atomic charges
 
 # Requirements
 
