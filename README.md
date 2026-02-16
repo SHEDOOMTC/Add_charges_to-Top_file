@@ -27,16 +27,17 @@ Herein is a code to help you edit the top file with the calculated partial chrge
 
 ```bash
 #Clone repository
-git clone https://github.com/SHEDOOMTC/My-Lessons-with-Gromacs.git
+git clone https://github.com/SHEDOOMTC/Add_charges_to-Top_file.git
 
 ```
 # Usage
 
 ```bash
 cd Add_charges_to-Top_file
-#copy your three input files into Combine-DNA-ligand/
+#copy your three input files into Add_charges_to_Top_file/
 # Make executable
 chmod +x ntinye-charges-na-top-file.sh
+./ntinye-charges-na-top-file.sh mol2_file top_file Esp_chg_file
 
 ```
 
