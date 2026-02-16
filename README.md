@@ -43,7 +43,7 @@ chmod +x ntinye-charges-na-top-file.sh
 # Prompts
 
 	There is a difference command at the end to evaluate the original and new file and ensure file format and contents are preserved
-	```bash
+```bash
 	diff -y "$top_file" edited_"$top_file" | less -SR
 
-	```
+```
