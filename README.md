@@ -4,6 +4,7 @@ After ligand parametrization using Molecular mechanics (MM) forcefields, the par
 
 Herein is a code to help you edit the top file with the calculated partial chrges
 
+**Note**: To ensure this code works, the xyz file used for the Gaussian calculations must be generated from the mol2 file (preferably using VMD)
 
 # Features
 
